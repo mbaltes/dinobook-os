@@ -1,3 +1,5 @@
+// A file copy program using system calls.
+
 #include <iostream>
 #include <unistd.h>
 #include <fcntl.h>
